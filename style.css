@@ -1,0 +1,28 @@
+body{
+    background: rgb(197,163,215);
+    background: linear-gradient(90deg, rgba(197,163,215,1) 0%, rgba(157,103,173,1) 49%, rgba(135,85,147,1) 100%);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+#cor-diferente{
+    color: beige;
+    border-style: dotted;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(40, 63, 107);
+}
+
+
+
